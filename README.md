@@ -29,8 +29,11 @@ Me interesa el análisis de datos, la automatización de procesos y el uso de la
 - **Ingeniería en Ciencias de la Computación** – ESPOL (En curso)  
 - **Bootcamp de Data Analytics** – ESPOL  
   - Módulo Excel  
-  - SQL (en curso)  
-  - Python (en curso)  
+  - SQL  
+  - Python
+  - Business Intelligence
+  - Power BI
+  - GenAI for Data Analytics 
 
 ---
 
