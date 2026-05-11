@@ -1,7 +1,7 @@
 # 👩‍💻 Romina Brown
 
 ¡Hola! 👋  
-Soy estudiante de **Ingeniería en Ciencias de la Computación** en la **ESPOL** y formé parte del **Bootcamp de Data Driven Decision Specialist**.  
+Soy estudiante de **Ingeniería en Ciencias de la Computación** en la **ESPOL** y formé parte del **Bootcamp de Data Driven Decisions Specialist**.  
 Me interesa el análisis de datos, la automatización de procesos y el uso de la tecnología para resolver problemas reales.
 
 ---
@@ -9,7 +9,7 @@ Me interesa el análisis de datos, la automatización de procesos y el uso de la
 ## 🚀 Sobre mí
 
 - 🎓 Estudiante en ESPOL  
-- 📊 Data Driven Decision Specialist 
+- 📊 Data Driven Decisions Specialist 
 - 💡 Me gusta transformar datos en información útil  
 - 🤝 Colaborativa, creativa y persistente  
 - 🌱 Siempre aprendiendo cosas nuevas  
