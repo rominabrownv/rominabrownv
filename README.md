@@ -1,38 +1,60 @@
-# 👩‍💻 Romina Brown
+# 👩🏻‍💻 Romina Brown
 
-¡Hola! 👋  
-Soy estudiante de **Ingeniería en Ciencias de la Computación** en la **ESPOL** y formé parte del **Bootcamp de Data Driven Decisions Specialist**.  
-Me interesa el análisis de datos, la automatización de procesos y el uso de la tecnología para resolver problemas reales.
+<div align="center">
 
----
+<img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=24&pause=1000&color=C084FC&center=true&vCenter=true&width=700&lines=Estudiante+de+Computer+Science;Data+Analytics+%26+Business+Intelligence;Python+%7C+SQL+%7C+Power+BI;Siempre+aprendiendo+nuevas+tecnologías+✨" />
 
-## 🚀 Sobre mí
-
-- 🎓 Estudiante en ESPOL  
-- 📊 Data Driven Decisions Specialist  
-- 💡 Me gusta transformar datos en información útil  
-- 🤝 Colaborativa, creativa y persistente  
-- 🌱 Siempre aprendiendo cosas nuevas  
+</div>
 
 ---
 
-## 🛠️ Habilidades Técnicas
+## 🌸 Sobre mí
 
-- **Lenguajes:** Python, SQL, Java  
-- **Herramientas:** Excel, Power BI  
-- **Bases de datos:** Diseño y consultas SQL  
-- **Data Analytics:** Visualización de datos, Business Intelligence y automatización de procesos  
+🎓 Estudiante de **Ingeniería en Ciencias de la Computación** en **ESPOL**  
+📊 Especializada en **Data Analytics y Business Intelligence**  
+💡 Apasionada por transformar datos en información útil  
+🤝 Creativa, colaborativa y orientada a soluciones  
+🌱 Siempre aprendiendo nuevas tecnologías y herramientas  
 
 ---
 
-## 📚 Formación
+# 💻 Tecnologías y Herramientas
 
-- **Ingeniería en Ciencias de la Computación** – ESPOL  
+<div align="center">
 
-- **Data-Driven Decisions Specialist** – Coding Bootcamps ESPOL (2025 – 2026)  
-  Programa enfocado en análisis de datos y toma de decisiones basada en información.
+### 📊 Data Analytics
 
-### Módulos completados:
+<img src="https://img.shields.io/badge/Python-6C63FF?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/SQL-5B8DEF?style=for-the-badge&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/Power_BI-FFB703?style=for-the-badge&logo=powerbi&logoColor=black">
+<img src="https://img.shields.io/badge/Excel-52B788?style=for-the-badge&logo=microsoftexcel&logoColor=white">
+<img src="https://img.shields.io/badge/Pandas-B388EB?style=for-the-badge&logo=pandas&logoColor=white">
+<img src="https://img.shields.io/badge/NumPy-4EA8DE?style=for-the-badge&logo=numpy&logoColor=white">
+<img src="https://img.shields.io/badge/Jupyter-FF9F1C?style=for-the-badge&logo=jupyter&logoColor=white">
+<img src="https://img.shields.io/badge/Matplotlib-4895EF?style=for-the-badge&logo=plotly&logoColor=white">
+
+<br><br>
+
+### ⚙️ Desarrollo y Herramientas
+
+<img src="https://img.shields.io/badge/Java-FF6B6B?style=for-the-badge&logo=openjdk&logoColor=white">
+<img src="https://img.shields.io/badge/Git-F3722C?style=for-the-badge&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-2B2D42?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/Cisco-4CC9F0?style=for-the-badge&logo=cisco&logoColor=white">
+
+</div>
+
+---
+
+# 📚 Formación Académica
+
+### 🎓 Ingeniería en Ciencias de la Computación — ESPOL
+
+### 📈 Data-Driven Decisions Specialist — Coding Bootcamps ESPOL
+
+Programa enfocado en análisis de datos y toma de decisiones basada en información.
+
+#### 📌 Módulos completados:
 - Excel for Data Analytics  
 - Database SQL and Query Optimization  
 - Business Intelligence  
@@ -42,84 +64,115 @@ Me interesa el análisis de datos, la automatización de procesos y el uso de la
 
 ---
 
-## 🏅 Certificaciones
+# 🏅 Certificaciones
 
-### Cisco Networking Academy — CCNA: Introducción a las Redes
+## 🌐 Cisco Networking Academy — CCNA: Introducción a las Redes
+
 📅 21/01/2026  
 
-Curso enfocado en fundamentos de redes de computadoras, conectividad, modelos de red, direccionamiento IP, routers, switches y comunicación entre dispositivos.
+Curso enfocado en fundamentos de redes, direccionamiento IP, routers, switches y comunicación entre dispositivos.
 
 🔗 Insignia:  
 https://www.credly.com/badges/42c9e0b5-058d-4f7f-8730-5cf9c41de8a8/public_url
 
 ---
 
-### Coding Bootcamps ESPOL — Data-Driven Decisions Specialist
+## 📊 Data-Driven Decisions Specialist — ESPOL
+
 📅 2025 – 2026  
 
-Programa de formación enfocado en análisis de datos y toma de decisiones basada en información.
+Programa especializado en análisis de datos y toma de decisiones basada en información.
 
 🔗 Insignia:  
 https://acreditta.com/credential/f8f33fdd-0520-4199-9fb4-c5e482b4a069?utm_source=copy&resource_type=badge&resource=f8f33fdd-0520-4199-9fb4-c5e482b4a069
 
 ---
 
-### Microsoft Office Specialist: Excel Associate (MO-210)
+## 📗 Microsoft Office Specialist: Excel Associate (MO-210)
 
-Certificación que valida competencias en Microsoft Excel, incluyendo análisis de datos, funciones, fórmulas, tablas dinámicas y visualización de información.
+Certificación orientada al análisis de datos, funciones avanzadas, tablas dinámicas y visualización en Excel.
 
 🔗 Credencial:  
 https://www.credly.com/badges/2e3db673-23b5-4c39-a540-be2b3c4c3eb6/linked_in_profile
 
 ---
 
-### Microsoft Certified: Power BI Data Analyst Associate (PL-300)
+## 📘 Microsoft Certified: Power BI Data Analyst Associate (PL-300)
 
-Certificación orientada a preparación, modelado, visualización y análisis de datos utilizando Power BI y dashboards interactivos.
+Certificación enfocada en modelado, visualización y análisis de datos utilizando Power BI.
 
 🔗 Credencial:  
 https://learn.microsoft.com/es-es/users/rominabrown-8682/credentials/2ba3c82419ecd387
 
 ---
 
-## 📂 Proyectos Destacados
+# 🚀 Proyectos Destacados
 
-### 🛒 Grocery Sales Analysis
+<div align="center">
 
-Análisis de ventas de un supermercado utilizando Excel y SQL.
+| Proyecto | Descripción |
+|---|---|
+| 🛒 **Grocery Sales Analysis** | Análisis de ventas utilizando Excel y SQL. Incluye limpieza de datos, consultas SQL y visualización de KPIs. |
+| 📊 **Dashboard Comercial** | Dashboard interactivo en Power BI para análisis de métricas y tendencias comerciales. |
+| 📈 **Análisis de Datos** | Visualización y transformación de datos para generar insights y apoyar la toma de decisiones. |
 
-- Limpieza y estructuración de datos  
-- Diseño de base de datos  
-- Consultas para métricas clave  
-- Visualización de resultados  
-
----
-
-## 🌟 Intereses
-
-- Análisis de datos  
-- Visualización  
-- Automatización  
-- Tecnología y aprendizaje continuo  
+</div>
 
 ---
 
-## 🌍 Idiomas
+# 🌟 Intereses
 
-### Inglés
-- Comprensión auditiva: C1  
-- Comprensión lectora: C1  
-- Expresión escrita: C1  
-- Producción oral: B2  
-- Interacción oral: B2  
-
----
-
-## 📫 Contáctame
-
-- 📧 Email: rominabrownv@gmail.com  
-- 💼 LinkedIn: https://www.linkedin.com/in/romina-brown-a9b385299/
+- 📊 Data Analytics  
+- 📈 Visualización de datos  
+- 🤖 Automatización de procesos  
+- 💻 Business Intelligence  
+- 🌱 Aprendizaje continuo  
 
 ---
 
-⭐ *Gracias por visitar mi perfil. Siempre abierta a colaborar y aprender algo nuevo.*
+# 🌎 Idiomas
+
+### 🇺🇸 Inglés
+- Comprensión auditiva: **C1**  
+- Comprensión lectora: **C1**  
+- Expresión escrita: **C1**  
+- Producción oral: **B2**  
+- Interacción oral: **B2**  
+
+---
+
+# 📈 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=minabrownv&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minabrownv&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 📫 Contáctame
+
+<div align="center">
+
+<a href="mailto:rominabrownv@gmail.com">
+<img src="https://img.shields.io/badge/📧%20rominabrownv%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+<br><br>
+
+<a href="https://www.linkedin.com/in/romina-brown-a9b385299/">
+<img src="https://img.shields.io/badge/LinkedIn-Romina%20Brown-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+✨ *Gracias por visitar mi perfil. Siempre abierta a aprender, colaborar y crear proyectos relacionados con tecnología y análisis de datos.*
+
+</div>
