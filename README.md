@@ -18,20 +18,26 @@
 
 ### 📊 Data Analytics
 
-![Python](https://img.shields.io/badge/Python-6C63FF?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-5B8DEF?style=for-the-badge&logo=mysql&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-FFB703?style=for-the-badge&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-52B788?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-B388EB?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-4EA8DE?style=for-the-badge&logo=numpy&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-FF9F1C?style=for-the-badge&logo=jupyter&logoColor=white)
+![Python](https://img.shields.io/badge/Python-purple?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-blue?style=for-the-badge&logo=mysql&logoColor=white)
+![PowerBI](https://img.shields.io/badge/PowerBI-yellow?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-green?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-purple?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-blue?style=for-the-badge&logo=numpy&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-orange?style=for-the-badge&logo=jupyter&logoColor=white)
+
+Estas tecnologías las utilizo para limpieza, transformación, análisis y visualización de datos, así como para automatizar procesos y generar dashboards interactivos.
+
+---
 
 ### ⚙️ Desarrollo y Herramientas
 
-![Java](https://img.shields.io/badge/Java-FF6B6B?style=for-the-badge&logo=openjdk&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F3722C?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-2B2D42?style=for-the-badge&logo=github&logoColor=white)
-![Cisco](https://img.shields.io/badge/Cisco-4CC9F0?style=for-the-badge&logo=cisco&logoColor=white)
+![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=openjdk&logoColor=white)
+![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)
+![Cisco](https://img.shields.io/badge/Cisco-blue?style=for-the-badge&logo=cisco&logoColor=white)
+
+Herramientas utilizadas para desarrollo de software, control de versiones, modelado de bases de datos y administración de redes.
 
 ---
 
@@ -98,36 +104,11 @@ https://learn.microsoft.com/es-es/users/rominabrown-8682/credentials/2ba3c82419e
 
 # 🚀 Proyectos Destacados
 
-## 🛒 Grocery Sales Analysis
-
-Análisis de ventas utilizando Excel y SQL.
-
-### Tecnologías utilizadas
-- Excel  
-- SQL  
-- Power BI  
-
-### Actividades realizadas
-- Limpieza de datos  
-- Diseño de base de datos  
-- Consultas SQL  
-- Visualización de KPIs  
-
----
-
-## 📊 Dashboard Comercial
-
-Dashboard interactivo para análisis de métricas y tendencias comerciales.
-
-### Tecnologías utilizadas
-- Power BI  
-- Excel  
-
-### Funcionalidades
-- KPIs interactivos  
-- Segmentación de datos  
-- Visualización de tendencias  
-- Reportes dinámicos  
+| Proyecto | Descripción | Tecnologías | Repositorio |
+|---|---|---|---|
+| 📊 **Proyecto Final Python** | Análisis exploratorio de datos sobre rotación laboral utilizando un dataset de empleados para identificar factores que influyen en la renuncia laboral. | Python, Pandas, NumPy, Jupyter Notebook | https://github.com/rominabrownv/ProyectoFinal-Python |
+| 🚗 **Rastreo de Vehículos** | Sistema desarrollado en Java para rastreo y monitoreo de vehículos mediante programación orientada a objetos. | Java, POO, GitHub | https://github.com/rominabrownv/Rastreo-de-Vehiculos |
+| 🎮 **Proyecto Base de Datos Esports** | Diseño de base de datos relacional para competencias de esports aplicando normalización e integridad referencial. | SQL, MySQL, Modelado de BD | https://github.com/rominabrownv/Proyecto-Base-de-Datos-Esports |
 
 ---
 
@@ -155,9 +136,9 @@ Dashboard interactivo para análisis de métricas y tendencias comerciales.
 
 # 📫 Contáctame
 
-[![Email](https://img.shields.io/badge/📧%20rominabrownv%40gmail.com-EA4335?style=for-the-badge)](mailto:rominabrownv@gmail.com)
+[![Email](https://img.shields.io/badge/Email-rominabrownv@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rominabrownv@gmail.com)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Romina%20Brown-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/romina-brown-a9b385299/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Romina_Brown-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/romina-brown-a9b385299/)
 
 ---
 
