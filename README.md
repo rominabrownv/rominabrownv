@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=24&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=Estudiante+de+Computer+Science;Data+Analytics+%26+Business+Intelligence;Python+%7C+SQL+%7C+Power+BI;Siempre+aprendiendo+nuevas+tecnologías+✨" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=24&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&lines=Estudiante+de+Computer+Science;Data+Analytics+%26+Business+Intelligence;Python+%7C+SQL+%7C+Power+BI;Siempre+aprendiendo+nuevas+tecnologías+✨" />
 
 </div>
 
