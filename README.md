@@ -1,10 +1,6 @@
 # 👩🏻‍💻 Romina Brown
 
-<div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=24&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&lines=Estudiante+de+Computer+Science;Data+Analytics+%26+Business+Intelligence;Python+%7C+SQL+%7C+Power+BI;Siempre+aprendiendo+nuevas+tecnologías+✨" />
-
-</div>
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=24&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&lines=Estudiante+de+Computer+Science;Data+Analytics+%26+Business+Intelligence;Python+%7C+SQL+%7C+Power+BI;Siempre+aprendiendo+nuevas+tecnologías+✨)
 
 ---
 
@@ -20,29 +16,22 @@
 
 # 💻 Tecnologías y Herramientas
 
-<div align="center">
-
 ### 📊 Data Analytics
 
-<img src="https://img.shields.io/badge/Python-6C63FF?style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/SQL-5B8DEF?style=for-the-badge&logo=mysql&logoColor=white">
-<img src="https://img.shields.io/badge/Power_BI-FFB703?style=for-the-badge&logo=powerbi&logoColor=black">
-<img src="https://img.shields.io/badge/Excel-52B788?style=for-the-badge&logo=microsoftexcel&logoColor=white">
-<img src="https://img.shields.io/badge/Pandas-B388EB?style=for-the-badge&logo=pandas&logoColor=white">
-<img src="https://img.shields.io/badge/NumPy-4EA8DE?style=for-the-badge&logo=numpy&logoColor=white">
-<img src="https://img.shields.io/badge/Jupyter-FF9F1C?style=for-the-badge&logo=jupyter&logoColor=white">
-<img src="https://img.shields.io/badge/Matplotlib-4895EF?style=for-the-badge&logo=plotly&logoColor=white">
-
-<br><br>
+![Python](https://img.shields.io/badge/Python-6C63FF?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-5B8DEF?style=for-the-badge&logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-FFB703?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-52B788?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-B388EB?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-4EA8DE?style=for-the-badge&logo=numpy&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-FF9F1C?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ### ⚙️ Desarrollo y Herramientas
 
-<img src="https://img.shields.io/badge/Java-FF6B6B?style=for-the-badge&logo=openjdk&logoColor=white">
-<img src="https://img.shields.io/badge/Git-F3722C?style=for-the-badge&logo=git&logoColor=white">
-<img src="https://img.shields.io/badge/GitHub-2B2D42?style=for-the-badge&logo=github&logoColor=white">
-<img src="https://img.shields.io/badge/Cisco-4CC9F0?style=for-the-badge&logo=cisco&logoColor=white">
-
-</div>
+![Java](https://img.shields.io/badge/Java-FF6B6B?style=for-the-badge&logo=openjdk&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F3722C?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-2B2D42?style=for-the-badge&logo=github&logoColor=white)
+![Cisco](https://img.shields.io/badge/Cisco-4CC9F0?style=for-the-badge&logo=cisco&logoColor=white)
 
 ---
 
@@ -54,7 +43,8 @@
 
 Programa enfocado en análisis de datos y toma de decisiones basada en información.
 
-#### 📌 Módulos completados:
+#### 📌 Módulos completados
+
 - Excel for Data Analytics  
 - Database SQL and Query Optimization  
 - Business Intelligence  
@@ -108,15 +98,36 @@ https://learn.microsoft.com/es-es/users/rominabrown-8682/credentials/2ba3c82419e
 
 # 🚀 Proyectos Destacados
 
-<div align="center">
+## 🛒 Grocery Sales Analysis
 
-| Proyecto | Descripción |
-|---|---|
-| 🛒 **Grocery Sales Analysis** | Análisis de ventas utilizando Excel y SQL. Incluye limpieza de datos, consultas SQL y visualización de KPIs. |
-| 📊 **Dashboard Comercial** | Dashboard interactivo en Power BI para análisis de métricas y tendencias comerciales. |
-| 📈 **Análisis de Datos** | Visualización y transformación de datos para generar insights y apoyar la toma de decisiones. |
+Análisis de ventas utilizando Excel y SQL.
 
-</div>
+### Tecnologías utilizadas
+- Excel  
+- SQL  
+- Power BI  
+
+### Actividades realizadas
+- Limpieza de datos  
+- Diseño de base de datos  
+- Consultas SQL  
+- Visualización de KPIs  
+
+---
+
+## 📊 Dashboard Comercial
+
+Dashboard interactivo para análisis de métricas y tendencias comerciales.
+
+### Tecnologías utilizadas
+- Power BI  
+- Excel  
+
+### Funcionalidades
+- KPIs interactivos  
+- Segmentación de datos  
+- Visualización de tendencias  
+- Reportes dinámicos  
 
 ---
 
@@ -132,7 +143,8 @@ https://learn.microsoft.com/es-es/users/rominabrown-8682/credentials/2ba3c82419e
 
 # 🌎 Idiomas
 
-### 🇺🇸 Inglés
+## 🇺🇸 Inglés
+
 - Comprensión auditiva: **C1**  
 - Comprensión lectora: **C1**  
 - Expresión escrita: **C1**  
@@ -143,24 +155,10 @@ https://learn.microsoft.com/es-es/users/rominabrown-8682/credentials/2ba3c82419e
 
 # 📫 Contáctame
 
-<div align="center">
+[![Email](https://img.shields.io/badge/📧%20rominabrownv%40gmail.com-EA4335?style=for-the-badge)](mailto:rominabrownv@gmail.com)
 
-<a href="mailto:rominabrownv@gmail.com">
-<img src="https://img.shields.io/badge/📧%20rominabrownv%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-
-<br><br>
-
-<a href="https://www.linkedin.com/in/romina-brown-a9b385299/">
-<img src="https://img.shields.io/badge/LinkedIn-Romina%20Brown-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Romina%20Brown-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/romina-brown-a9b385299/)
 
 ---
 
-<div align="center">
-
 ✨ *Gracias por visitar mi perfil. Siempre abierta a aprender, colaborar y crear proyectos relacionados con tecnología y análisis de datos.*
-
-</div>
