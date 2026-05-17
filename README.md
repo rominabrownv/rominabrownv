@@ -112,25 +112,9 @@ https://learn.microsoft.com/es-es/users/rominabrown-8682/credentials/2ba3c82419e
 
 ---
 
-# 🌟 Intereses
-
-- 📊 Data Analytics  
-- 📈 Visualización de datos  
-- 🤖 Automatización de procesos  
-- 💻 Business Intelligence  
-- 🌱 Aprendizaje continuo  
-
----
-
 # 🌎 Idiomas
 
 ## 🇺🇸 Inglés
-
-- Comprensión auditiva: **C1**  
-- Comprensión lectora: **C1**  
-- Expresión escrita: **C1**  
-- Producción oral: **B2**  
-- Interacción oral: **B2**  
 
 ---
 
