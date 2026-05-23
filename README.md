@@ -106,7 +106,7 @@ https://learn.microsoft.com/es-es/users/rominabrown-8682/credentials/2ba3c82419e
 
 | Proyecto | Descripción | Tecnologías | Repositorio |
 |---|---|---|---|
-| 📊 **Proyecto Final Python** | Análisis exploratorio de datos sobre rotación laboral utilizando un dataset de empleados para identificar factores que influyen en la renuncia laboral. | Python, Pandas, NumPy, Jupyter Notebook | https://github.com/rominabrownv/ProyectoFinal-Python |
+| 📊 **Rotación laboral Python** | Análisis exploratorio de datos sobre rotación laboral utilizando un dataset de empleados para identificar factores que influyen en la renuncia laboral. | Python, Pandas, NumPy, Jupyter Notebook | https://github.com/rominabrownv/ProyectoFinal-Python |
 | 🚗 **Rastreo de Vehículos** | Sistema desarrollado en Java para rastreo y monitoreo de vehículos mediante programación orientada a objetos. | Java, POO, GitHub | https://github.com/rominabrownv/Rastreo-de-Vehiculos |
 | 🎮 **Proyecto Base de Datos Esports** | Diseño de base de datos relacional para competencias de esports aplicando normalización e integridad referencial. | SQL, MySQL, Modelado de BD | https://github.com/rominabrownv/Proyecto-Base-de-Datos-Esports |
 
